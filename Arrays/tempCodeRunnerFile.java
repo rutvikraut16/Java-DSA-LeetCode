@@ -1,0 +1,7 @@
+
+                maxProfit = profit;
+            }
+        }
+
+        return maxProfit;
+    }
